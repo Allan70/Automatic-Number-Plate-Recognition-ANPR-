@@ -3,7 +3,6 @@ altair
 asgiref
 astunparse
 attrs
-backports.zoneinfo
 blinker
 cachetools
 certifi
